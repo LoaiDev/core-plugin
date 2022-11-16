@@ -1,0 +1,5 @@
+name: LoaiCore
+version: '${project.version}'
+main: me.loaidev.core.CorePlugin
+api-version: 1.19
+authors: [ LoaiDev ]
